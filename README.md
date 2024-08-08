@@ -19,8 +19,8 @@ Ensure that you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/food-ordering-app.git
-cd food-ordering-app
+git clone https://github.com/your-username/Food-Ordering-Expo-React-Native.git
+cd Food-Ordering-Expo-React-Native
 ```
 
 ### Step 2: Install Dependencies
